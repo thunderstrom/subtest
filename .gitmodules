@@ -1,3 +1,6 @@
 [submodule "docker-redsocks/docker-redsocks"]
 	path = docker-redsocks/docker-redsocks
 	url = https://github.com/thunderstrom/docker-redsocks.git
+[submodule "docker_utils"]
+	path = docker_utils
+	url = https://github.com/thunderstrom/docker_utils.git
